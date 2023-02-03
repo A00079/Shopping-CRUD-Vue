@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "title": "Puma",
+      "price": "9999",
+      "quantity": "78",
+      "rating": "10",
+      "thumbnail_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "discription": "Cool shoes"
+    },
+    {
+      "discription": "3.0GHz Dual-core Haswell Intel Core i5 Turbo Boost up to 3.2 GHz, 3MB L3 cache 8GB (two 4GB SO-DIMMs) of 1600MHz DDR3 SDRAM",
+      "id": 3,
+      "price": 2399,
+      "quantity": 10,
+      "rating": 4.5,
+      "thumbnail_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "title": "Nike Air Jorden"
+    },
+    {
+      "discription": "3.0GHz Dual-core Haswell Intel Core i5 Turbo Boost up to 3.2 GHz, 3MB L3 cache 8GB (two 4GB SO-DIMMs) of 1600MHz DDR3 SDRAM",
+      "id": 4,
+      "price": 2399,
+      "quantity": 10,
+      "rating": 4.5,
+      "thumbnail_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "title": "Nike Air Jorden"
+    },
+    {
+      "id": 5,
+      "title": "Guuivc",
+      "price": "676",
+      "quantity": "456",
+      "rating": "6",
+      "thumbnail_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "discription": "thkm ldld dlld dld  dldl  dl"
+    }
+  ]
+}
